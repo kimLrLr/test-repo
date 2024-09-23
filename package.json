@@ -1,0 +1,17 @@
+{
+  "name": "ci-cd-test",
+  "version": "1.0.0",
+  "description": "ci-cd-test",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimLrLr/test-repo.git"
+  },
+  "author": "kimLrLr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kimLrLr/test-repo/issues"
+  },
+  "homepage": "https://github.com/kimLrLr/test-repo#readme"
+}
